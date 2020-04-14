@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642410490461",
+    "firebase_url": "https://hawkshopadmin.firebaseio.com",
+    "project_id": "hawkshopadmin",
+    "storage_bucket": "hawkshopadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642410490461:android:8c97fa99b221ea7cb87bb4",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642410490461-769e4ibedj7uch4r0pkltamioe4tj9s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapp",
+            "certificate_hash": "1614723b980cf2c3c2a1db1d6e170ff6c4fd7f26"
+          }
+        },
+        {
+          "client_id": "642410490461-6l7e3rebfn01rb34uvvvju8cdc51ll35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWg0p0h9M5clGWVpRqq2YzWt_jmjU-e_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642410490461-6l7e3rebfn01rb34uvvvju8cdc51ll35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
